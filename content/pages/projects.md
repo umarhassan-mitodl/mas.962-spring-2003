@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides examples of student work for the course, including
   a short paper and a final paper.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

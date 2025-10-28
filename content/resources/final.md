@@ -5,8 +5,6 @@ description: Final paper on constructionist learning courtesy of Jennifer Beaudi
 file: /courses/mas-962-the-nature-of-constructionist-learning-spring-2003/98fce695531d08d8ef27e909d59fb491_final.pdf
 file_size: 127786
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: Participants at a workshop for educators offered by the MIT Media L
 file: /courses/mas-962-the-nature-of-constructionist-learning-spring-2003/0a541bc7ac616df173e0abe68b0db466_mas-962s03-th.jpg
 file_size: 14289
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Participants at a workshop for educators offered by the MIT Media Lab in
     Puebla, Mexico. (Image courtesy of Bakhtiar Mikhak.)
